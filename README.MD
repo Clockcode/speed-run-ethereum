@@ -117,7 +117,7 @@ Create a dynamic SVG NFT using a smart contract. Your contract will generate on-
 
 2. **Setup**:
    - Clone this repository
-   - Install dependencies for each challenge
+   - Run `./setup.sh` to install all dependencies
    - Follow the specific instructions in each challenge folder
 
 3. **Learning Path**:
